@@ -49,3 +49,23 @@ a {
     color: azure;
     font-size: 80%;
 }
+
+.mitten {
+    background-image: url(./img/showcase.jpg);
+    background-size: cover;
+    background-position: 2%;
+}
+
+.mcon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding: 7%;
+    text-align: center;
+    justify-content: space-around;
+}
+
+h1 {
+    font-size: 60px;
+}
